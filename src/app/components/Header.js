@@ -17,7 +17,7 @@ function Header() {
               </span>
           </Link>
         </div>
-        <div className="col col-md-6 text-md-end thm_headerlinks pt-2">
+        <div className="col col-md-6 text-md-end thm_headerlinks pt-2 d-none d-md-block">
         <p><a target="_blank" href="https://linkedin.com/in/themeprys">https://linkedin.com/in/themeprys</a><br/>
         <a href="mailto:priyonosantosa.id@gmail.com">priyonosantosa.id@gmail.com</a></p>
         </div>

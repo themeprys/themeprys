@@ -3,7 +3,7 @@ import Image from "next/image";
 
 function Porto() {
   return (
-    <div className="row row-cols-1 row-cols-md-3 g-4 mb-5">
+    <div className="row row-cols-1 row-cols-md-3 g-4 mb-5 pb-5 border-bottom">
       <div className="col">
         <div className="card h-100 border-0">
           <Image
