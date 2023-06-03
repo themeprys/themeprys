@@ -37,12 +37,12 @@ function Hero() {
           <div className="mt-4 mb-3 pb-5 d-sm-block d-md-none d-lg-none">
           <div className="d-grid gap-2 text-center">
           <Link
-              href="/"
+              href="/about"
               className="btn btn-dark btn-lg px-4 me-2 thm_cta"
             >
-              <FontAwesomeIcon icon={faFilePdf} /> Download Resume
+              <FontAwesomeIcon icon={faFilePdf} /> Curriculum Vitae
             </Link>
-            <Link href="/">Browse my writings</Link>
+            <Link href="/blog">Read my blog</Link>
               {/* <button class="btn btn-primary" type="button">Button</button> */}
             </div>
             {/* <Link
@@ -55,12 +55,12 @@ function Hero() {
           </div>
           <div className="mt-4 mb-3 pb-5 d-none d-md-block">
             <Link
-              href="/"
+              href="/about"
               className="btn btn-dark btn-lg px-4 me-2 thm_cta"
             >
-              <FontAwesomeIcon icon={faFilePdf} /> Download Resume
+              <FontAwesomeIcon icon={faFilePdf} /> Curriculum Vitae
             </Link>
-            or <Link href="/">Browse my writings</Link>
+            or <Link href="/blog">Read my blog</Link>
           </div>          
 
           {/* <p>
