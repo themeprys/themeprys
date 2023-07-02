@@ -42,7 +42,7 @@ function Hero() {
             >
               <FontAwesomeIcon icon={faFilePdf} /> Curriculum Vitae
             </Link>
-            <Link href="/blog">Read my blog</Link>
+            <Link href="/">Read my blog</Link>
               {/* <button class="btn btn-primary" type="button">Button</button> */}
             </div>
             {/* <Link
@@ -60,7 +60,7 @@ function Hero() {
             >
               <FontAwesomeIcon icon={faFilePdf} /> Curriculum Vitae
             </Link>
-            or <Link href="/blog">Read my blog</Link>
+            or <Link href="/">Read my blog</Link>
           </div>          
 
           {/* <p>

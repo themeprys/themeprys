@@ -9,7 +9,7 @@ function Porto() {
           <Image
             width="600"
             height="400"
-            src="/600x400.svg"
+            src="/img/porto/mitherafilm.webp"
             className="card-Image-top img-fluid rounded"
             alt="themeprys"
           />
@@ -20,7 +20,7 @@ function Porto() {
           <Image
             width="600"
             height="400"
-            src="/600x400.svg"
+            src="/img/porto/peoplereunite_web.webp"
             className="card-Image-top img-fluid rounded"
             alt="themeprys"
           />
@@ -31,7 +31,7 @@ function Porto() {
           <Image
             width="600"
             height="400"
-            src="/600x400.svg"
+            src="/img/porto/srmbands_web.webp"
             className="card-Image-top img-fluid rounded"
             alt="themeprys"
           />
@@ -42,7 +42,7 @@ function Porto() {
           <Image
             width="600"
             height="400"
-            src="/600x400.svg"
+            src="/img/porto/mondiblanc_web.webp"
             className="card-Image-top img-fluid rounded"
             alt="themeprys"
           />
@@ -53,7 +53,7 @@ function Porto() {
           <Image
             width="600"
             height="400"
-            src="/600x400.svg"
+            src="/img/porto/rupasuara_web.webp"
             className="card-Image-top img-fluid rounded"
             alt="themeprys"
           />
@@ -64,7 +64,7 @@ function Porto() {
           <Image
             width="600"
             height="400"
-            src="/600x400.svg"
+            src="/img/porto/thetales_web.webp"
             className="card-Image-top img-fluid rounded"
             alt="themeprys"
           />
