@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
         <div className='col-lg-8 mx-auto p-4 pt-md-5'>
         <Header /> 
         {children}
-        <Bottomnav />
+        {/* <Bottomnav /> */}
         <Footer />
         </div>        
         </body>

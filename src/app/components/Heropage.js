@@ -14,7 +14,7 @@ const Heropage = () => {
         <Intro />
         <Stack />
         <Porto />
-        <Leads />
+        {/* <Leads /> */}
     </div>    
   )
 }

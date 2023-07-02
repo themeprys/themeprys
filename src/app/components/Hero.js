@@ -11,11 +11,11 @@ function Hero() {
   return (
     <main>
       <div className="row">
-      <div className="col-12 d-sm-block d-md-none d-lg-none">
+      <div className="col-12 d-sm-block d-md-none d-lg-none text-center">
           <Image
             alt="Priyono Santosa"
-            width={500}
-            height={500}
+            width={150}
+            height={150}
             src="/priyonosantosa.webp"
             className="img-fluid mb-5 shadow thm_profilepic"
           />
@@ -40,9 +40,9 @@ function Hero() {
               href="/about"
               className="btn btn-dark btn-lg px-4 me-2 thm_cta"
             >
-              <FontAwesomeIcon icon={faFilePdf} /> Curriculum Vitae
+              <FontAwesomeIcon icon={faFilePdf} /> Download CV
             </Link>
-            <Link href="/">Read my blog</Link>
+            {/* <Link href="/">Read my blog</Link> */}
               {/* <button class="btn btn-primary" type="button">Button</button> */}
             </div>
             {/* <Link
@@ -58,9 +58,9 @@ function Hero() {
               href="/about"
               className="btn btn-dark btn-lg px-4 me-2 thm_cta"
             >
-              <FontAwesomeIcon icon={faFilePdf} /> Curriculum Vitae
+              <FontAwesomeIcon icon={faFilePdf} /> Download CV
             </Link>
-            or <Link href="/">Read my blog</Link>
+            {/* or <Link href="/">Read my blog</Link> */}
           </div>          
 
           {/* <p>
