@@ -34,7 +34,7 @@ function Intro() {
           </li>
           <li>
             <a className="icon-link mb-1" href="/">
-              PosberitaKota - ß2017
+              PosBeritaKota - ß2017
             </a>
           </li>
           <li>
