@@ -1,4 +1,6 @@
 import React from 'react'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCreativeCommons } from "@fortawesome/free-brands-svg-icons";
 
 function Footer() {
   return (
@@ -7,7 +9,7 @@ function Footer() {
   <div className="row">
     <div className="col pt-4">
       <p>
-        Priyono Santosa &copy; 2010 - 2023.<br/>All Rights Reserved
+        Priyono Santosa <FontAwesomeIcon icon={faCreativeCommons} /> 2010 - 2023.<br/>All Rights Reserved
       </p>
     </div>
   </div>
