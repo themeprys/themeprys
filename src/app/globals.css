@@ -32,6 +32,8 @@ li > a  {
 }
 a.thm_cta {
     font-size: 15px;
+    width: 300px;
+    font-size: 16px;
 }
 .thm_profilepic {
     border-radius: 50%;
